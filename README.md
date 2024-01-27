@@ -35,9 +35,7 @@
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###
 
-<h5 align="left">Hello World!!</h5>
 
 ###
 
