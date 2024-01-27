@@ -22,7 +22,10 @@
 
 ###
 
-<h1 align="left">[Data Science Portfolio](https://github.com/elmm50/Data-Science-Portfolio)</h1>
+<h1 align="left">
+    <a href="https://github.com/elmm50/Data-Science-Portfolio" target="_blank">Data Science Portfolio</a>
+</h1>
+
 
 ###
 
