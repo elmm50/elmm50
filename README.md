@@ -19,7 +19,7 @@
 ###
 
 <h1 align="left">
-    <a href="https://github.com/elmm50/rubycat-datascientist-intership" target="_blank">Data Scientist Intership at Rubycat in Rennes(FR)</a>
+    <a href="https://github.com/elmm50/rubycat-datascientist-intership" target="_blank">Data Engineer Intership at Rubycat in Rennes(FR)</a>
 </h1>
 
 
